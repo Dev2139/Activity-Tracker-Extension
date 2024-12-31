@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "Website Tracker",
+    "description": "Tracks time spent on websites and provides a detailed report.",
+    "version": "1.0",
+    "permissions": [
+      "tabs",
+      "storage"
+    ],
+    "background": {
+      "service_worker": "background.js",
+      "script":["background.js", "content.js"]
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ],
+    "host_permissions": [
+      "http://*/*",
+      "https://*/*"
+    ]
+  }
+  
