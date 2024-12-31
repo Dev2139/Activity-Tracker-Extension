@@ -28,6 +28,8 @@ A Chrome extension designed to track your online activities efficiently, providi
 4. Click **Load unpacked** and select the folder containing the extension files.
 
 5. The extension will now be added to Chrome, and its icon will appear in the extensions bar.
+   (I made a file Explaination.md in which I explained detail that how to deploy an extension to chrome web store)
+
 
 ## Usage
 
