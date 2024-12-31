@@ -43,7 +43,8 @@ A Chrome extension designed to track your online activities efficiently, providi
 
 ## Screenshots
 
-![Screenshot of the extension dashboard](path/to/your/screenshot.png)
+![Screenshot of the extension dashboard](1.png)
+![Screenshot of the extension dashboard](2.png)
 
 ## Future Enhancements
 
