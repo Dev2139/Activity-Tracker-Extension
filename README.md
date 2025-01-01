@@ -51,6 +51,9 @@ A Chrome extension designed to track your online activities efficiently, providi
 
 [![Watch the video](2.png)](Working.mp4)
 
+## Linkedin Post link
+https://www.linkedin.com/posts/dev-patel2139_techinnovation-chromeextension-useranalytics-activity-7280173170970558464-uzX-?utm_source=share&utm_medium=member_desktop
+
 ## Future Enhancements
 
 - Add cloud sync to enable activity tracking across devices.
