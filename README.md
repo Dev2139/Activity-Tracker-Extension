@@ -46,6 +46,10 @@ A Chrome extension designed to track your online activities efficiently, providi
 ![Screenshot of the extension dashboard](1.png)
 ![Screenshot of the extension dashboard](2.png)
 
+## Working Explaination
+
+[![Watch the video](2.png)](Working.mp4)
+
 ## Future Enhancements
 
 - Add cloud sync to enable activity tracking across devices.
