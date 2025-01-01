@@ -7,6 +7,7 @@ A Chrome extension designed to track your online activities efficiently, providi
 - **Activity Monitoring**: Tracks time spent on different websites.
 - **Real-Time Updates**: Monitors activities in real-time and updates data accordingly.
 - **Privacy-Friendly**: All data is stored locally, ensuring user privacy.
+- **Notification-System**: If a site remains open for a long time, you will receive a notification.
 
 ## Technologies Used
 
